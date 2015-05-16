@@ -1,0 +1,23 @@
+Notes about Git
+
+Parts of a commit
+
+Author
+Timestamp
+Comment
+Unique ID
+Changes to files/lines
+
+
+What is git?
+
+A “version control system”
+A history of everything you do to your files
+A graph of “states” in which your files has existed
+
+
+git repository is a set of points in time, with history showing where you've been.
+
+Each point has a name (here A, B, C) that uniquely identifies it, called a hash
+
+The path from one point to the previous is represented by the differencebetween the two points.

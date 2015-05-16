@@ -1,0 +1,203 @@
+history | less
+history 
+cd ...
+pwd
+cd
+cd /
+cd ..
+cd..
+ls
+cd ~
+cd /Users/tinaojha/
+ls -a
+ls -t
+ls -d
+ls -tz
+man ls
+ls -lrt
+ls -rt
+ls -r
+ls -lt
+ls -l
+clear 
+curl -fsSL http://git.io/QxUaOQ | sh
+set -gx EDITOR 'subl -w'
+# Sublime Text
+git config user.email
+git config user.name
+git config --list
+brew doctor
+git --version
+brew install git
+brew in
+echo $PATH
+subl /etc/paths
+subl .
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+clear
+uname
+git push https://github.com/tinasharma/javascript.git
+history
+git commit -m "Donut Shop HW 5"
+git add --all
+git status
+git commit -m "Donut Shop HW 4"
+git commit -m "Commit more folders"
+git add -all
+touch README.md
+cd ../JavascriptDevAccl/
+cd F2-Javascript/
+git commit -m "Updating the Readme.md"
+cd F1-Javascript/
+mv README.md ./F1-Javascript/
+touch F1-Javascript/
+ls -al
+    git push --set-upstream https://github.com/tinasharma/javascript.git master
+git pull https://github.com/tinasharma/javascript.git
+git commit -m "My first assignment"
+git init
+mkdir JavascriptDevAccl
+mkdir F2-Javascript
+mkfir F2-Javascript
+mkdir F1-Javascript
+cd Javascript/
+mkdir Javascript
+cd Projects
+mkdir Projects
+git config --global core.editor "sublime -n -w"
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+cd /usr/local/bin/
+cd /bin
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+subl --help
+subl -n -w
+subl
+sublime2
+sublimetext
+sublime text
+sublime
+git config --global user.email "tina_2212@hotmail.com"
+git
+jshint
+sudo npm install -g jshint
+npm install -g jshint
+sublime .gitconfig
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+git config --global user.name "Tina Sharma"
+ls -l ~
+cd Documents
+ls -rtl
+ls -rt
+ls -t
+ls t
+ls
+history > moving_around.txt
+history | less
+history 
+cd ...
+pwd
+cd
+cd /
+cd ..
+cd..
+cd ~
+cd /Users/tinaojha/
+ls -a
+ls -d
+ls -tz
+man ls
+ls -lrt
+ls -r
+ls -lt
+ls -l
+clear 
+curl -fsSL http://git.io/QxUaOQ | sh
+set -gx EDITOR 'subl -w'
+# Sublime Text
+git config user.email
+git config user.name
+git config --list
+brew doctor
+git --version
+brew install git
+brew in
+echo $PATH
+subl /etc/paths
+subl .
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+clear
+uname
+git push https://github.com/tinasharma/javascript.git
+history
+git commit -m "Donut Shop HW 5"
+git add --all
+git status
+git commit -m "Donut Shop HW 4"
+git commit -m "Commit more folders"
+git add -all
+touch README.md
+cd ../JavascriptDevAccl/
+cd F2-Javascript/
+git commit -m "Updating the Readme.md"
+cd F1-Javascript/
+mv README.md ./F1-Javascript/
+touch F1-Javascript/
+ls -al
+    git push --set-upstream https://github.com/tinasharma/javascript.git master
+git pull https://github.com/tinasharma/javascript.git
+git commit -m "My first assignment"
+git init
+mkdir JavascriptDevAccl
+mkdir F2-Javascript
+mkfir F2-Javascript
+mkdir F1-Javascript
+cd Javascript/
+mkdir Javascript
+cd Projects
+mkdir Projects
+git config --global core.editor "sublime -n -w"
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+cd /usr/local/bin/
+cd /bin
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+subl --help
+subl -n -w
+subl
+sublime2
+sublimetext
+sublime text
+sublime
+git config --global user.email "tina_2212@hotmail.com"
+git
+jshint
+sudo npm install -g jshint
+npm install -g jshint
+sublime .gitconfig
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+git config --global user.name "Tina Sharma"
+ls -l ~
+cd Documents

@@ -1,5 +1,9 @@
+#List hidden directories
+ls -a
+
+cd ~
 history | less
-history 
+history
 cd ...
 pwd
 cd
@@ -19,7 +23,7 @@ ls -rt
 ls -r
 ls -lt
 ls -l
-clear 
+clear
 curl -fsSL http://git.io/QxUaOQ | sh
 set -gx EDITOR 'subl -w'
 # Sublime Text
@@ -105,7 +109,7 @@ ls t
 ls
 history > moving_around.txt
 history | less
-history 
+history
 cd ...
 pwd
 cd
@@ -122,7 +126,7 @@ ls -lrt
 ls -r
 ls -lt
 ls -l
-clear 
+clear
 curl -fsSL http://git.io/QxUaOQ | sh
 set -gx EDITOR 'subl -w'
 # Sublime Text

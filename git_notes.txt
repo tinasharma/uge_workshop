@@ -1,4 +1,5 @@
 Notes about Git
+Unix and Git for everyone.
 
 Parts of a commit
 
